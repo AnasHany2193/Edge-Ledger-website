@@ -22,7 +22,7 @@ EdgeLedger is a sleek and modern website featuring two main pages: Home and Blog
 
 ## 🌐 Live Site
 
-Experience EdgeLedger live at [EdgeLedger Website](https://edge-ledger-web-site.netlify.app/).
+Experience EdgeLedger live at [EdgeLedger Website](https://edgeledger-website-2193.netlify.app/).
 
 ## 🖼️ Screenshots
 
